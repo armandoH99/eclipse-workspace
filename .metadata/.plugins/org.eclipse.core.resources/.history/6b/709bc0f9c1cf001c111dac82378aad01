@@ -1,0 +1,23 @@
+package com.Par.main;
+import java.util.Scanner;
+
+public class ParImpar
+{
+    public static void main(String args[]) {
+    	
+        Scanner in = new Scanner(System.in);
+        
+        System.out.print("Enter idade ");
+        int a = in.nextInt();
+        
+
+        
+        if ( a % 2 == 0 ) {
+            System.out.println("The entered number is even");
+        		double R = Math.sqrt(a);	}
+         else
+            System.out.println("The entered number is odd");
+         		
+        
+    }
+}

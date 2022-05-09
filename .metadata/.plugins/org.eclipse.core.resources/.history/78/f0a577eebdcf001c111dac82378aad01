@@ -1,0 +1,11 @@
+package com.olamund.main;
+
+public class oderr {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Olá Mundo!!!!");
+		
+	}
+
+} 
